@@ -1,0 +1,23 @@
+[
+  {
+    "IP Address": "42.105.65.217",
+    "OS Name": "Android",
+    "OS Version": "10",
+    "Platform": "Linux",
+    "CPU Architecture": "armv8l",
+    "CPU Core": "8",
+    "GPU Vendor": "Qualcomm",
+    "GPU Renderer": "Adreno (TM) 505",
+    "Device Vendor": "Xiaomi",
+    "Device Model": "Redmi 8",
+    "RAM": "4GB",
+    "Browser Name": "Chrome",
+    "Browser Version": "87.0.4280.101",
+    "Engine": "Blink",
+    "Engine Version": "87.0.4280.101",
+    "User Agent": "Mozilla/5.0 (Linux; Android 10; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36",
+    "Resolution": "360x760",
+    "Language": "en-IN",
+    "Time Zone": "+.5"
+  }
+]
